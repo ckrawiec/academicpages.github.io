@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Christina Krawiec / Home"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Christina Krawiec"
+description              : &description ""
 url                      : https://ckrawiec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ckrawiec/ckrawiec.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "@canihavetoast" &twitter
 facebook:
   username               :
   app_id                 :
@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Christina Krawiec"
-  avatar           : "profile.png"
+  avatar           : "profilepic.jpg"
   bio              : "Physics PhD Candidate at the University of Pennsylvania."
-  location         : "Location"
+  location         : "Philadelphia, Pennsylvania, USA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "christina.i.krawiec@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ckrawiec"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@canihavetoast"
   vine             :
   weibo            :
   xing             :
