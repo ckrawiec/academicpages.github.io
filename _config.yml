@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christina Krawiec / Home"
+title                    : "Christina Krawiec"
 title_separator          : "-"
 name                     : &name "Christina Krawiec"
 description              : &description ""
@@ -81,7 +81,7 @@ author:
   name             : "Christina Krawiec"
   avatar           : "profilepic.jpg"
   bio              : "Physics PhD Candidate at the University of Pennsylvania."
-  location         : "Philadelphia, Pennsylvania, USA"
+  location         : "Philadelphia, PA, USA"
   employer         :
   googlescholar    : 
   email            : "christina.i.krawiec@gmail.com"
@@ -97,11 +97,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/christina-krawiec-3993b9a0/"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "@canihavetoast"
