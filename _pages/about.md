@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Please see my full work/research history [here](https://github.com/ckrawiec/ckrawiec.github.io/files/CV0518.pdf).
+
 
 Coding
 ======
@@ -23,3 +25,4 @@ I have been a student at UPenn since 2013, becoming a Ph.D. candidate in 2016. I
 Dark Energy Survey (DES)
 ======
 [DES](https://www.darkenergysurvey.org) is a 5,000 sq. deg. optical imaging survey seeking to uncover the exact nature of the ``dark energy'' driving the accelerated expansion of our universe. 
+I have been working with DES since 2014 on various weak lensing projects. My thesis work revolves around selecting high redshift galaxies in the DES Science Verification data and measuring their lensing magnification around foreground red galaxies. 
