@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Please see my full work/research history [here](https://github.com/ckrawiec/ckrawiec.github.io/files/CV0518.pdf).
+Please see my full work/research history [here](ckrawiec.github.io/files/CV0518.pdf).
 
 
 Coding
