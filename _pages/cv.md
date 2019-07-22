@@ -7,4 +7,4 @@ redirect_from:
   - /cv.html
 ---
 
-Please see my full work/research history [here](files/CV0518.pdf).
+Please see my full work/research history [here](files/full_resume_072019.pdf).
