@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Please see my full work/research history [here](ckrawiec.github.io/files/CV0518.pdf).
+You may view or download my resume [here](ckrawiec.github.io/files/full_resume_072019.pdf).
 
 
 Coding
@@ -19,10 +19,11 @@ Check out my [Github repositories](https://github.com/ckrawiec) to see what I'm 
 
 University of Pennsylvania Physics & Astronomy
 ======
-I have been a student at UPenn since 2013, becoming a Ph.D. candidate in 2016. I work with Professor Gary M. Bernstein studing weak gravitational lensing with the Dark Energy Survey.
-
+I completed my Ph.D. research at UPenn in October 2018. I worked with Professor Gary M. Bernstein studing weak gravitational lensing with the Dark Energy Survey.
+You can read my full dissertation - "Testing Weak Lensing Measurement Techniques with the Dark Energy Survey" - [here](ckrawiec.github.io/files/CKrawiecDissertation.pdf).
 
 Dark Energy Survey (DES)
 ======
 [DES](https://www.darkenergysurvey.org) is a 5,000 sq. deg. optical imaging survey seeking to uncover the exact nature of the ``dark energy'' driving the accelerated expansion of our universe. 
-I have been working with DES since 2014 on various weak lensing projects. My thesis work revolves around selecting high redshift galaxies in the DES Science Verification data and measuring their lensing magnification around foreground red galaxies. 
+I worked with DES during my Ph.D. tenure from  2014-2018 on various weak lensing and outreach projects. My thesis work revolved around selecting high redshift galaxies in the DES Science Verification data and measuring their lensing magnification around foreground red galaxies. 
+
