@@ -1,10 +1,9 @@
 ---
-permalink: /science
+permalink: /science/
 title: "Science"
 excerpt: "Science"
 author_profile: true
 redirect_from: 
-  - /science/
   - /science.html
 ---
 
