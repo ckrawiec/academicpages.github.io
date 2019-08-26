@@ -8,19 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-You may view or download my resume [here](https://ckrawiec.github.io/files/CKrawiec_resume_07262019.pdf).
+You may view or download my resume [here](https://ckrawiec.github.io/files/CKrawiec_resume_07262019.pdf). For my full work history, check out my [CV](/cv/) page.
 
-
-Coding
-======
-I regularly write scripts in Python for my own plotting and data analysis. I have also worked on a major project in C++. I am also familiar with IDL, R, Java, SQL, and Fortran.
-
-Check out my [Github repositories](https://github.com/ckrawiec) to see what I'm working on.
-
-University of Pennsylvania Physics & Astronomy
-======
-I completed my Ph.D. research at UPenn in October 2018. I worked with Professor Gary M. Bernstein studing weak gravitational lensing with the Dark Energy Survey.
-You can read my full dissertation - "Testing Weak Lensing Measurement Techniques with the Dark Energy Survey" - [here](ckrawiec.github.io/files/CKrawiecDissertation.pdf).
+To learn more about me, check out my [coding](https://ckrawiec.github.io/coding), some information about the [science](/science/) research I've conducted (and read my [publications](/publications/), or learn about one of my passions - community [outreach](/outreach/).
 
 Dark Energy Survey (DES)
 ======
