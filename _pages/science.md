@@ -7,6 +7,15 @@ redirect_from:
   - /science.html
 ---
 
+Gravitational Lensing
+======
+My undergraduate and graduate studies and research centered around the phenomenon called "gravitational lensing." This poster (I presented at "Start Talking Science" in 2018) gives a good summary of lensing if you are unfamiliar with the concept.
+
+<center>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQM0I-BBQR6vWmAe0XQgVoWNsUjU7jIZwLu27bUDpXUGJOakeyOun7geQPGAaPz-Ts-SSyYPLWrRM5I/embed?start=true&loop=true&delayms=60000" frameborder="0" width="6912" height="5213" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  </center>
+
+
 University of Pennsylvania Physics & Astronomy
 ======
 I completed my Ph.D. research at UPenn in October 2018. I worked with Professor Gary M. Bernstein studing weak gravitational lensing with the Dark Energy Survey.
