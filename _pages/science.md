@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /science
 title: "Science"
-excerpt: "Scientific Research"
+excerpt: "Science"
 author_profile: true
 redirect_from: 
   - /science/
