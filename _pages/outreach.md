@@ -34,7 +34,6 @@ As part of this group, I produced a video series for YouTube in which DES scient
 
 
 <center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?=PLq6sect2OPIiTcbkGnBcMohYIVQ8PTfH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?=PLq6sect2OPIiTc-bkGnBcMohYIVQ8PTfH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-
 
