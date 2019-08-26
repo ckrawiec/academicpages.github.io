@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-You may view or download my resume [here](ckrawiec.github.io/files/full_resume_072019.pdf).
+You may view or download my resume [here](ckrawiec.github.io/files/Ckrawiec_resume_07262019.pdf).
 
 
 Coding
