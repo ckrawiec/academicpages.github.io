@@ -26,9 +26,9 @@ Dark Energy Survey (DES) Education and Public Outreach (EPO)
 [DES](https://www.darkenergysurvey.org) is a 5,000 sq. deg. optical imaging survey seeking to uncover the exact nature of the "dark energy" driving the accelerated expansion of our universe. 
 I participated in DES science since 2014 on various weak lensing projects, but had also been involved as a volunteer in the EPO group since 2015. We are a small contingent of scientists in the collaboration who love telling the world about DES science. We received no funding for this work, but keep the website and social media active for the survey. 
 
-I was briefly an EPO Coordinator for DES, manage the website and YouTube channels, before moving on to a science education job outside of Academia.
+I was briefly an EPO Coordinator for DES, continuing to manage the website and YouTube channels, before moving on to a science education job outside of Academia.
 
-As part of this group, I produced a video series for YouTube in which DES scientists were asked to answer questions gathered from public science events. I filmed them at one of our biannual collaboration meetings at the University of Chicago, and edited them into a series of captioned videos. My hope was to make scientists feel more accessible and relatable, while answering some simple yet surprisingly common questions from the general public.
+As part of DES EPO, I produced a video series for YouTube in which DES scientists were asked to answer questions gathered from public science events. I filmed them at one of our biannual collaboration meetings at the University of Chicago and edited them into a series of captioned videos. My hope was to make scientists feel more accessible and relatable, while answering some simple yet surprisingly common questions from the general public.
 
 Below is the introductory video from this series. To view the whole playlist, visit [this link](https://www.youtube.com/watch?v=pVKYwyYFxxA&list=PLq6sect2OPIiTc-bkGnBcMohYIVQ8PTfH) on YouTube.
 
