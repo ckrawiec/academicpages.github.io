@@ -29,7 +29,7 @@ I was briefly an EPO Coordinator for DES, manage the website and YouTube channel
 As part of this group, I produced a video series for YouTube in which DES scientists were asked to answer questions gathered from public science events. I filmed them at one of our biannual collaboration meetings at the University of Chicago, and edited them into a series of captioned videos. My hope was to make scientists feel more accessible and relatable, while answering some simple yet surprisingly common questions from the general public.
 
 <center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pVKYwyYFxxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?=PLq6sect2OPIiTc-bkGnBcMohYIVQ8PTfH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
