@@ -18,8 +18,7 @@ I also enjoy making educational materials and graphics. Below is a link to a Fli
 <center>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139928212@N03/albums/72157669109921869" title="Physics Education &amp; Outreach"><img src="https://live.staticflickr.com/4707/39993837682_ce0592bfc6_z.jpg" width="640" height="494" alt="Physics Education &amp; Outreach"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </center>
-
-
+<br>
 
 
 Dark Energy Survey (DES) Education and Public Outreach (EPO)
@@ -31,9 +30,9 @@ I was briefly an EPO Coordinator for DES, manage the website and YouTube channel
 
 As part of this group, I produced a video series for YouTube in which DES scientists were asked to answer questions gathered from public science events. I filmed them at one of our biannual collaboration meetings at the University of Chicago, and edited them into a series of captioned videos. My hope was to make scientists feel more accessible and relatable, while answering some simple yet surprisingly common questions from the general public.
 
-
+Below is the introductory video from this series. To view the whole playlist, visit [this link](https://www.youtube.com/watch?v=pVKYwyYFxxA&list=PLq6sect2OPIiTc-bkGnBcMohYIVQ8PTfH) on YouTube.
 
 <center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?=PLq6sect2OPIiTc-bkGnBcMohYIVQ8PTfH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=pVKYwyYFxxA&list=PLq6sect2OPIiTc-bkGnBcMohYIVQ8PTfH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
