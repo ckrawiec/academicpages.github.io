@@ -1,13 +1,17 @@
 # main links links
 main:
+  - title: "Coding"
+    url: /coding/
+    
   - title: "CV"
     url: /cv/
 
+  - title: "Outreach & Media"
+    url: /outreach/
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Coding"
-    url: /coding/
+  - title: "Science"
+    url: /science/
 
-  - title: "Outreach"
-    url: /outreach/
