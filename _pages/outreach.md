@@ -30,7 +30,7 @@ I was briefly an EPO Coordinator for DES, continuing to manage the website and Y
 
 As part of DES EPO, I produced a video series for YouTube in which DES scientists were asked to answer questions gathered from public science events. I filmed them at one of our biannual collaboration meetings at the University of Chicago and edited them into a series of captioned videos. My hope was to make scientists feel more accessible and relatable, while answering some simple yet surprisingly common questions from the general public.
 
-Below is the introductory video from this series. To view the whole playlist, visit [this link](https://www.youtube.com/watch?v=pVKYwyYFxxA&list=PLq6sect2OPIiTc-bkGnBcMohYIVQ8PTfH) on YouTube.
+Click below to watch the YouTube playlist of my "Ask DES" series.
 
 <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=pVKYwyYFxxA&list=PLq6sect2OPIiTc-bkGnBcMohYIVQ8PTfH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
