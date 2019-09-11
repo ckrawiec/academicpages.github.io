@@ -9,7 +9,6 @@
 locale                   : "en-US"
 title                    : "Christina Krawiec"
 title_separator          : "-"
-theme                    : jekyll-theme-architect
 name                     : &name "Christina Krawiec"
 description              : &description ""
 url                      : https://ckrawiec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
