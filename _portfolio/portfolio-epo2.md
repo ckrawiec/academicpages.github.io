@@ -1,7 +1,7 @@
 ---
 title: "Views on Outreach: Astrophysicists"
 excerpt: "Figures I produced for [Farahi et al. (2019)](https://www.jstemoutreach.org/article/8981-astronomers-and-physicists-attitudes-toward-education-and-public-outreach-a-programmatic-study-of-the-dark-energy-survey)
-comparing the actual engagement and perceived value of EPO (Education & Public Outreach) according to 131 Google survey respondents. Analysis & visualization done using Python notebooks and pandas. <br/><img src='/images/epo-fig2.png' width='400'><img src='/images/epo-table2.PNG' width='200'>"
+comparing the actual engagement and perceived value of EPO (Education & Public Outreach) according to 131 Google survey respondents. Analysis & visualization done using Python notebooks and pandas. <br/><img src='/images/epo-fig2.png' width='450'><img src='/images/epo-table2.PNG' width='500'>"
 collection: portfolio
 ---
 
