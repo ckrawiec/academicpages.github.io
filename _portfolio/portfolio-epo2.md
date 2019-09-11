@@ -14,7 +14,7 @@ The following figure compares the actual engagement and perceived value of ninet
 “Value of Activity” is calculated using the following metric for each activity:
 
 <center>
-  <img src='/images/epo-eq1.png'>
+  <img src='/images/epo-eq1.PNG'>
 </center>
 
 Here Ri  is  the  rank  from  0-5  (Not  Impactful  responses  were  counted  as  0),  nresp  is  the  total  number  of  responses,  and nIDK is  the  number  of "I Don’t  Know"  responses  (which  are excluded from the sum).
@@ -24,6 +24,6 @@ Here Ri  is  the  rank  from  0-5  (Not  Impactful  responses  were  counted  as
 In addition, we gathered the following data on time commitment to EPO, presented in table format:
 
 <center>
-<br/><img src='/images/epo-table2.png'>
+<br/><img src='/images/epo-table2.PNG'>
   </center>
  
