@@ -6,7 +6,7 @@ collection: portfolio
 ---
 The following data was obtained by Google Form Survey ([view its content here](https://ckrawiec.github.io/files/wolf_supplemental.pdf')). To read our complete analysis, please view the [full article](https://www.jstemoutreach.org/article/8981-astronomers-and-physicists-attitudes-toward-education-and-public-outreach-a-programmatic-study-of-the-dark-energy-survey) in the Journal of STEM Outreach. 
 
-The following figure compares the actual engagement and perceived value of nineteen different EPO (Education & Public Outreach) activities according to 131 survey respondents from the Dark Energy Survey - an international collaboration of astronomers and physicists imaging the southern sky. Respondents were presented with the activities and asked 1) if they have ever engaged in the activity and 2) to rank its value (level of impact). The number of counted responses, n, is noted in white (out of a total of 131).
+The following figure compares the perceived value of and actual engagement in nineteen different EPO (Education & Public Outreach) activities according to 131 survey respondents from the Dark Energy Survey - an international collaboration of astronomers and physicists imaging the southern sky. Respondents were presented with the activities and asked 1) if they have ever engaged in the activity and 2) to rank its value (level of impact). The number of counted responses, n, is noted in white (out of a total of 131).
 
 <br/><img src='/images/epo-fig2.png'>
 
